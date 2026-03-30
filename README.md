@@ -41,7 +41,4 @@ The system operates in three main layers:
 
 ## ⚙️ Installation & Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/danielrotman/AutoShield.git](https://github.com/danielrotman/AutoShield.git)
-   cd AutoShield
+To get AutoShield running on your machine, clone the repository with git clone https://github.com/danielrotman/AutoShield.git, install all required dependencies by running pip install -r requirements.txt, and ensure your MySQL server is active with the CyberWarRoom schema initialized before finally creating a .env file in the root directory to define your DB_HOST, DB_USER, DB_PASSWORD, and DB_NAME credentials.
