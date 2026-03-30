@@ -4,7 +4,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MIT License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
-**AutoShield** is a real-time network security monitoring and automated response engine. Developed as part of my B.Sc. in Computer Science at Afeka College, the system simulates sophisticated cyber attacks, identifies behavioral deviations using statistical analysis, and executes mitigation protocols autonomously.
+**AutoShield** is a real-time network security monitoring and automated response engine. The system is designed to simulate cyber attacks, identify behavioral deviations using statistical analysis, and execute mitigation protocols autonomously.
 
 ---
 
